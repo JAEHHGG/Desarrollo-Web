@@ -1,13 +1,13 @@
+<center>
+<H1> ACERCA DE NOSOTROS</H1>
+</center>
 
-<font size=6 Acerca de nosotros</font>
-<p>
-    insternship student es una pagina web donde varias empresas de Colombia publican
-    que tipo de practicantes necesitan y que cualidades buscan, esto a su vez 
-    que aporten en tu proceso de practicas y desarrollar tus habilidades 
-    profesionales 
-</p>
-<p>
+   <p><STRONG>PRACTICASCOLOMBIA</STRONG></p>
+   <p>
+   <br> Es una pagina web donde varias empresas de Colombia publican
+   <br>que tipo de practicantes necesitan y que cualidades buscan, esto a su vez
+   <br>fortalece tu proceso de practicas y a desarrollar tus habilidades
+    profesionales
+    </p> 
     
-</p>
-
-
+   <img src="http://gobeyondseo.com/wp-content/uploads/2011/11/AboutUs.jpg">
